@@ -1,18 +1,38 @@
 # Piyush Garg
 
-### AI/ML Student · Builder · Exploring AI Products
+**AI/ML Student · Builder · Product Enthusiast**
 
-I like understanding how things work, building them from scratch,
-and turning ideas into usable products.
+> I learn by building — exploring AI, software, and the ideas behind
+> products people actually use.
 
-Currently exploring **Python, Computer Science, AI/ML, and product engineering.**
+Currently focused on **Python, Computer Science, and AI/ML**.
 
 ---
 
-## 🧠 What I'm working on
+### Building
 
-```text
-Python              █████████░  Learning
-Computer Science    ███████░░░  Building fundamentals
-AI / ML             █████░░░░░  Exploring
-Product Engineering █████░░░░░  Building
+**AI Document Assistant**  
+RAG-based document Q&A with source-grounded answers.
+
+**Flow Landing**  
+A full-stack project built and deployed with modern web technologies.
+
+---
+
+### Exploring
+
+`Python` · `C++` · `AI/ML` · `Next.js` · `PostgreSQL` · `Docker`
+
+---
+
+### Interested in
+
+**AI Products** · **Startups** · **Consumer Internet** · **Developer Tools**
+
+---
+
+### Philosophy
+
+> **Learn → Build → Ship → Iterate**
+
+[LinkedIn](https://www.linkedin.com/in/piyushgargog)
