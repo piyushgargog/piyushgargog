@@ -1,6 +1,6 @@
 # Piyush Garg
 
-### AI/ML Student · Builder · Product Enthusiast
+### AI/ML Student · Builder · Exploring AI Products
 
 I learn by building — exploring **AI, software, and the ideas behind
 products people actually use.**
@@ -11,13 +11,15 @@ Currently focused on **Python, Computer Science, and AI/ML.**
 
 ## What I'm building
 
-### [AI Document Assistant]([YOUR_LINK](https://github.com/piyushgargog/ai-document-assistant))
-> Ask questions about your documents with answers grounded in
-> the source material.
+### [AI Document Assistant](https://github.com/piyushgargog/ai-document-assistant)
+
+> Ask questions about your documents with answers grounded in the
+> source material.
 
 `Python` `RAG` `LLMs`
 
-### [Flow Landing]([YOUR_LINK](https://github.com/testgitpiyush/flow-landing))
+### [Flow Landing](https://github.com/testgitpiyush/flow-landing)
+
 > A full-stack project built from development to production.
 
 `Next.js` `PostgreSQL` `Prisma` `Vercel`
@@ -42,4 +44,4 @@ Currently focused on **Python, Computer Science, and AI/ML.**
 
 > **Learn → Build → Ship → Iterate**
 
-[LinkedIn]([YOUR_LINKEDIN](https://www.linkedin.com/in/piyushgargog/))
+[LinkedIn](https://www.linkedin.com/in/piyushgargog/)
