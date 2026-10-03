@@ -32,6 +32,28 @@ The model has not been trained yet; the current work is the dataset pipeline, ev
 
 ---
 
+## Projects
+
+### Veris-2B
+An experimental compact language model for software debugging and code repair, starting with Python and designed for progressive multi-language expansion.
+
+### [DocuLens](https://github.com/piyushgargog/DocuLens) · [Live](https://doculens.duckdns.org)
+A RAG-based document assistant that answers questions about uploaded PDFs, grounded in the document with source-page citations. Hybrid retrieval (BM25 + embeddings), streaming answers, and a measured retrieval evaluation.
+`Python · FastAPI · FAISS · sentence-transformers · Docker`
+
+### [Sponsor Scout](https://github.com/piyushgargog/sponsor-scout)
+AI-assisted sponsor discovery and outreach for college events: researches companies from public pages, scores sponsorship fit, drafts source-cited emails, and sends only after human approval.
+`Python · Flask · SQLite · LLMs`
+
+### [Free GPU LLM Lab](https://github.com/piyushgargog/free-gpu-llm-lab)
+Reproducible experiments with open-weight LLMs on free GPU compute: quantization, llama.cpp + CUDA, speculative decoding, and inference benchmarking. Results are marked as measured or unverified.
+`Python · llama.cpp · CUDA · Quantization`
+
+### Flow Landing
+A modern web application built with Next.js, PostgreSQL, Prisma and deployed on Vercel.
+
+---
+
 ## Currently Exploring
 
 - Machine Learning & Generative AI
@@ -47,24 +69,11 @@ The model has not been trained yet; the current work is the dataset pipeline, ev
 
 **Languages:** Python · C++ · JavaScript
 
-**AI/ML:** Machine Learning · Generative AI · RAG · LLMs
+**AI/ML:** Machine Learning · Generative AI · RAG · LLMs · FAISS · sentence-transformers · Quantization
 
-**Web & Backend:** Next.js · PostgreSQL · Prisma
+**Web & Backend:** FastAPI · Flask · Next.js · PostgreSQL · Prisma · SQLite
 
-**Tools:** Git · GitHub · Docker
-
----
-
-## Projects
-
-### Veris-2B
-An experimental compact language model for software debugging and code repair, starting with Python and designed for progressive multi-language expansion.
-
-### AI Document Assistant
-RAG-based AI document assistant for answering questions from PDFs with source-grounded responses.
-
-### Flow Landing
-A modern web application built with Next.js, PostgreSQL, Prisma and deployed on Vercel.
+**Tools:** Git · GitHub · Docker · llama.cpp
 
 ---
 
