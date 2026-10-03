@@ -2,7 +2,7 @@
 
 ### AI/ML Student · AI Product Builder · Software Developer
 
-I build practical **AI/ML applications and software products**, with a focus on **Python, Machine Learning, Generative AI, RAG, LLMs, and product engineering**.
+I work on **AI/ML systems, LLMs, and software products**, with a focus on **Python, Machine Learning, Generative AI, RAG, and software engineering**.
 
 Currently learning **Computer Science, Data Structures & Algorithms, and AI/ML** through coursework and hands-on projects.
 
@@ -10,22 +10,36 @@ Currently learning **Computer Science, Data Structures & Algorithms, and AI/ML**
 
 ## Featured Project
 
-### AI Document Assistant
+### Veris-2B *(under development)*
 
-A **Retrieval-Augmented Generation (RAG)** application that answers questions about uploaded documents with responses grounded in the source material.
+A compact language model for software debugging and code repair, currently focused on Python with a roadmap toward multi-language support.
 
-**Tech Stack:** Python · RAG · LLMs · Generative AI · Document Processing
+The research direction:
+
+`Traceback / diagnostic` → `root-cause analysis` → `code repair` → *(eventually)* `execution-based verification`
+
+Being built around:
+
+- Dataset engineering
+- Leakage-aware evaluation
+- QLoRA / SFT training
+- Structured inference
+- Execution-based verification *(future stage)*
+
+The model has not been trained yet; the current work is the dataset pipeline, evaluation framework, and inference contract.
+
+**Focus:** Python · Dataset Engineering · Evaluation · LLM fine-tuning *(planned)*
 
 ---
 
 ## Currently Exploring
 
-- Python & Computer Science
 - Machine Learning & Generative AI
-- RAG & LLM Applications
+- LLMs & AI Systems
+- Software Debugging & Code Repair
+- RAG & AI Applications
 - Data Structures & Algorithms
 - AI Product Engineering
-- Startups & Consumer Software
 
 ---
 
@@ -42,6 +56,9 @@ A **Retrieval-Augmented Generation (RAG)** application that answers questions ab
 ---
 
 ## Projects
+
+### Veris-2B
+An experimental compact language model for software debugging and code repair, starting with Python and designed for progressive multi-language expansion.
 
 ### AI Document Assistant
 RAG-based AI document assistant for answering questions from PDFs with source-grounded responses.
