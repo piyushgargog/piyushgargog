@@ -1,85 +1,115 @@
-# Hey, I'm Piyush Garg
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f766e,100:22d3ee&height=180&section=header&text=Piyush%20Garg&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20Software%20Engineering&descAlignY=60&descSize=16" width="100%" alt="Piyush Garg — AI, ML and Software Engineering" />
+<!-- ═══════════════════ HERO ═══════════════════ -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=27&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&height=60&lines= Piyush+Garg;AI+%2F+ML+Builder;Building+things+that+actually+work." alt="Typing introduction" />
+
+<p>
+  <b>AI/ML · LLM Systems · Developer Tools</b>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/piyushgargog/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/piyushgargog"><img src="https://img.shields.io/badge/GitHub-piyushgargog-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://github.com/piyushgargog?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-14b8a6?style=flat-square&logo=github&logoColor=white" alt="Projects" /></a>
-</p>
+<a href="https://github.com/piyushgargog?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE-PROJECTS-161B22?style=for-the-badge&logo=github&logoColor=58A6FF" />
+</a>
+<a href="https://www.linkedin.com/in/piyushgargog/">
+  <img src="https://img.shields.io/badge/CONNECT-LINKEDIN-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
 
-<p align="center">
-  <i>Building practical AI systems, developer tools, and products that solve real problems.</i>
-</p>
+</div>
 
 ---
 
-## About
+```python
+class PiyushGarg:
+    focus = ["Artificial Intelligence", "Machine Learning", "Software Engineering"]
+    building = ["LLM systems", "AI agents", "Developer tools"]
+    philosophy = "Learn deeply. Build relentlessly. Ship useful things."
+```
 
-- 🎓 First-year B.Tech student focused on AI and Machine Learning.
-- 🧠 Exploring LLMs, retrieval-augmented generation, model training, and AI agents.
-- 🛠️ Building end-to-end projects, from data pipelines to deployed applications.
-- 🌱 Currently strengthening my foundations in software engineering and ML systems.
-
-## Featured Projects
+## `01` — Selected Work
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/piyushgargog/vyana">Vyana</a></h3>
-      An AI-focused project exploring practical agentic workflows and useful AI capabilities.
-      <br/><br/>
-      <a href="https://github.com/piyushgargog/vyana">View repository →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/piyushgargog/ai-document-assistant">DocuLens</a></h3>
-      A document Q&A assistant that uses retrieval-augmented generation to answer questions about uploaded files.
-      <br/><br/>
-      <a href="https://github.com/piyushgargog/ai-document-assistant">View repository →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/piyushgargog/ai-error-debugger">Veris-2B / TraceFix</a></h3>
-      An ongoing research and engineering effort focused on Python error understanding, debugging examples, and model evaluation.
-      <br/><br/>
-      <a href="https://github.com/piyushgargog/ai-error-debugger">View repository →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/piyushgargog?tab=repositories">Free GPU LLM Lab</a></h3>
-      Experiments with accessible GPU environments, open models, and practical LLM workflows.
-      <br/><br/>
-      <a href="https://github.com/piyushgargog?tab=repositories">Explore repositories →</a>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ Vyana
+
+AI-focused engineering project.
+
+[![Open](https://img.shields.io/badge/VIEW_PROJECT-58A6FF?style=flat-square&logo=github&logoColor=black)](https://github.com/piyushgargog/vyana)
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ DocuLens
+
+Ask questions about documents using retrieval-augmented generation.
+
+[![Open](https://img.shields.io/badge/VIEW_PROJECT-58A6FF?style=flat-square&logo=github&logoColor=black)](https://github.com/piyushgargog/ai-document-assistant)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ Veris-2B / TraceFix
+
+Exploring Python error understanding, debugging datasets, and model evaluation.
+
+[![Open](https://img.shields.io/badge/VIEW_PROJECT-58A6FF?style=flat-square&logo=github&logoColor=black)](https://github.com/piyushgargog/ai-error-debugger)
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ More experiments
+
+Prototypes, engineering experiments, and projects in progress.
+
+[![Explore](https://img.shields.io/badge/ALL_REPOSITORIES-58A6FF?style=flat-square&logo=github&logoColor=black)](https://github.com/piyushgargog?tab=repositories)
+
+</td>
+</tr>
 </table>
 
-## Tech Stack
+## `02` — Tech Arsenal
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css,react,nextjs,streamlit,fastapi,postgres,prisma,docker,git,github,linux,vscode&theme=dark&perline=9" alt="Technologies and tools" />
-</p>
+<div align="center">
 
-<p align="center">
-  <b>AI / ML:</b> PyTorch · Transformers · Sentence Transformers · FAISS · RAG
-  <br/>
-  <b>Backend / Data:</b> FastAPI · PostgreSQL · Prisma · REST APIs
-  <br/>
-  <b>Tools:</b> Git · GitHub · Docker · Linux · WSL
-</p>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nextjs,fastapi,postgres,prisma,docker,git,github,linux&theme=dark&perline=7" alt="Tech stack" />
 
-## GitHub
+</div>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=piyushgargog&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=22d3ee&text_color=c9d1d9&rank_icon=github" alt="GitHub statistics" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/piyushgargog/piyushgargog/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%" />
-</p>
+`AI / ML` · `LLMs` · `RAG` · `FAISS` · `Transformers`
 
-<p align="center">
-  <i>Learn continuously. Build deliberately. Ship useful things.</i>
-</p>
+`Backend` · `APIs` · `PostgreSQL` · `Docker` · `Linux`
+
+</div>
+
+## `03` — GitHub Activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=piyushgargog&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushgargog&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" alt="Most used languages" />
+
+</div>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/piyushgargog/piyushgargog/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake animation" />
+
+</div>
+
+---
+
+<div align="center">
+
+**Less hype. More engineering.**
+
+<sub>Designed in dark mode · Built one project at a time.</sub>
+
+</div>
