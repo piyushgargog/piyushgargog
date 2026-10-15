@@ -1,141 +1,245 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3000&pause=1300&color=58A6FF&center=true&vCenter=true&width=720&height=55&lines=Hey%2C+I'm+Piyush+Garg.;I+build+AI-powered+products.;From+LLM+systems+to+real-world+software." alt="Piyush Garg — AI and software engineering" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=240&text=PIYUSH%20GARG&fontSize=58&fontColor=E6EDF3&stroke=58A6FF&strokeWidth=1&animation=fadeIn&desc=ARTIFICIAL%20INTELLIGENCE%20%2F%20LLM%20SYSTEMS%20%2F%20SOFTWARE&descAlignY=70&descSize=13&color=0:0D1117,50:101D35,100:0D1117" width="100%" alt="Piyush Garg — AI, LLM Systems and Software Engineering"/>
 
-<p>
-  <a href="https://github.com/piyushgargog?tab=repositories">Projects</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/piyushgargog/">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="https://vyanahealth.app/">Vyana — Live</a>
-</p>
+<br/>
 
-**AI / ML · LLM Systems · Product Engineering**
+<a href="https://github.com/piyushgargog">
+<img src="https://img.shields.io/badge/GitHub-piyushgargog-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/piyushgargog/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://vyanahealth.app/">
+<img src="https://img.shields.io/badge/VYANA-LIVE%20PRODUCT-245C4F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Vyana"/>
+</a>
+
+<br/><br/>
+
+### Building AI products. Exploring the systems behind them.
+
+*B.Tech AIML @ USAR, GGSIPU · India*
+
+[Projects](#-selected-work) · [Tech Stack](#-technology) · [Current Focus](#-currently-exploring) · [GitHub](#-github-activity)
 
 </div>
 
 ---
 
-I'm a B.Tech student building software at the intersection of **AI research and real products** — from document intelligence and healthcare workflows to debugging systems.
+## `01` — About me
 
-I care about the engineering behind the demo: data pipelines, retrieval, evaluation, APIs, deployment, and reliability.
+I'm Piyush, a first-year B.Tech student specialising in Artificial Intelligence and Machine Learning.
 
-## What I'm building
+I'm interested in more than just calling an API and wrapping it in a UI. I want to understand the systems underneath: how models are trained, how retrieval works, how datasets affect results, how agents interact with real-world tools, and how software holds up outside a demo.
+
+I learn by building — shipping applications, experimenting with AI systems, and working through the engineering details along the way.
+
+```text
+INTERESTS
+├── AI / Machine Learning
+├── LLM Applications & Retrieval Systems
+├── AI Agents & Tool Use
+├── Model Training & Evaluation
+└── Backend & Product Engineering
+```
+
+---
+
+## `02` — Selected work
+
+A selection of products and experiments I'm building or exploring.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 01 / Vyana
+### Vyana
 
-**Healthcare, connected.**
+**Healthcare · AI Product**
 
-An online healthcare platform with an AI assistant, prescription and report management, hospital appointment tokens, medicine discovery, reminders, and care-plan workflows.
+A healthcare platform designed to bring essential care workflows into one place.
 
-Built as a collaborative product with web and mobile experiences.
+- Appointments and hospital discovery
+- Medical records, prescriptions and reminders
+- AI-assisted healthcare workflows
+- Web agents for discovering healthcare information
+
+**Stack:** Web engineering · AI agents
 
 <br/>
 
-<a href="https://vyanahealth.app/">
-  <img src="https://img.shields.io/badge/LIVE_PRODUCT-238636?style=flat-square&logo=googlechrome&logoColor=white" alt="Live product" />
-</a>
-<a href="https://github.com/piyushgargog/vyana">
-  <img src="https://img.shields.io/badge/SOURCE-161B22?style=flat-square&logo=github&logoColor=white" alt="Source code" />
-</a>
+<a href="https://vyanahealth.app/"><img src="https://img.shields.io/badge/Explore-Live%20Product-245C4F?style=flat-square" alt="Explore Vyana"/></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 02 / DocuLens
+### DocuLens
 
-**Ask your documents.**
+**RAG · Document Intelligence**
 
-A document question-answering system built around retrieval-augmented generation. Extracts document content, chunks and embeds text, retrieves relevant passages with FAISS, and uses an LLM to generate answers.
+A document question-answering application that uses semantic retrieval to help users query their documents.
+
+- Extract and process document content
+- Generate embeddings with Sentence Transformers
+- Retrieve relevant chunks using FAISS
+- Generate answers using configurable LLM providers
+
+**Stack:** Python · Streamlit · FAISS · LLMs
 
 <br/>
 
-`Python` `Streamlit` `FAISS` `Embeddings` `RAG`
-
-<a href="https://github.com/piyushgargog/ai-document-assistant">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-161B22?style=flat-square&logo=github&logoColor=white" alt="View DocuLens" />
-</a>
+<a href="https://github.com/piyushgargog/ai-document-assistant"><img src="https://img.shields.io/badge/Explore-Repository-1F6FEB?style=flat-square&logo=github&logoColor=white" alt="Explore DocuLens"/></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 03 / Veris-2B · TraceFix
+### Veris-2B / TraceFix
 
-**Making debugging more systematic.**
+**Model Development · AI Debugging**
 
-An ongoing model and dataset engineering effort focused on Python tracebacks, root-cause identification, code fixes, training pipelines, and evaluation metrics.
+An exploration into building AI-assisted debugging systems, from training-data preparation to model evaluation.
 
-The goal: measure debugging capability rather than rely on impressive-looking demos.
+- Collect and curate Python debugging examples
+- Build dataset cleaning and validation pipelines
+- Explore fine-tuning workflows
+- Evaluate syntax validity, error classification and fix quality
 
-<br/>
-
-`Python` `Datasets` `QLoRA` `Evaluation`
+**Focus:** Python · Dataset engineering · Model evaluation
 
 </td>
 <td width="50%" valign="top">
 
-### 04 / Engineering Lab
+### Engineering Lab
 
-**Experiments beyond the main projects.**
+**Experiments · Developer Tools**
 
-Exploring LLM inference, open models, agent workflows, backend infrastructure, and practical deployment on accessible compute.
+A growing collection of engineering experiments and ideas around building useful software.
 
-<br/>
+- Full-stack application development
+- Databases and backend architecture
+- Local development and deployment workflows
+- Exploring practical applications of AI
 
-<a href="https://github.com/piyushgargog?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-161B22?style=flat-square&logo=github&logoColor=white" alt="Explore repositories" />
-</a>
+**Focus:** Building, testing and iterating
 
 </td>
 </tr>
 </table>
 
-## The stack
+---
+
+## `03` — Technology
+
+Tools I use or am actively learning through projects.
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,ts,js&theme=dark" alt="Python, C++, TypeScript and JavaScript"/>
+</p>
+
+### AI / ML
+
+<p>
+<img src="https://img.shields.io/badge/LLMs-Model%20APIs-6E56CF?style=flat-square" alt="LLMs"/>
+<img src="https://img.shields.io/badge/RAG-Semantic%20Retrieval-3B82F6?style=flat-square" alt="RAG"/>
+<img src="https://img.shields.io/badge/FAISS-Vector%20Search-2563EB?style=flat-square" alt="FAISS"/>
+<img src="https://img.shields.io/badge/Sentence%20Transformers-Embeddings-0F766E?style=flat-square" alt="Sentence Transformers"/>
+<img src="https://img.shields.io/badge/AI%20Agents-Tool%20Use-7C3AED?style=flat-square" alt="AI Agents"/>
+</p>
+
+### Web & backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,nextjs,react,nodejs,postgres,prisma&theme=dark" alt="HTML, CSS, Next.js, React, Node.js, PostgreSQL and Prisma"/>
+</p>
+
+### Infrastructure & tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,vscode&theme=dark" alt="Git, GitHub, Docker, Linux, Bash and VS Code"/>
+</p>
+
+---
+
+## `04` — Currently exploring
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/01-AI%20SYSTEMS-1F6FEB?style=for-the-badge" alt="AI Systems"/>
+
+**LLM engineering**
+
+Retrieval pipelines, agent workflows, evaluation, and reliable AI application design.
+
+</td>
+<td width="33%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/02-MODEL%20BUILDING-8957E5?style=for-the-badge" alt="Model Building"/>
+
+**Training & datasets**
+
+Data quality, fine-tuning fundamentals, benchmarking, and debugging models.
+
+</td>
+<td width="33%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/03-SOFTWARE-238636?style=for-the-badge" alt="Software Engineering"/>
+
+**Engineering foundations**
+
+Data structures, databases, Linux, Docker, deployment, and maintainable code.
+
+</td>
+</tr>
+</table>
+
+---
+
+## `05` — GitHub activity
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nextjs,fastapi,postgres,prisma,docker,git,github,linux&theme=dark&perline=7" alt="Programming languages and developer tools" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=piyushgargog&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github" alt="GitHub statistics"/>
+
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushgargog&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Most-used programming languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=piyushgargog&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" alt="GitHub contribution streak"/>
 
 </div>
 
-| Area | Tools and concepts |
-|---|---|
-| AI / ML | Transformers, embeddings, RAG, FAISS, LLM APIs |
-| Development | Python, C++, JavaScript, TypeScript |
-| Web / Backend | React, Next.js, FastAPI, REST APIs |
-| Data / Infrastructure | PostgreSQL, Prisma, Docker, Linux, Git |
+---
 
-## Currently focused on
+## `06` — Beyond the code
 
-- Building reliable AI applications beyond basic API wrappers.
-- Understanding model training, dataset quality, and evaluation.
-- Improving software engineering fundamentals and deployment workflows.
+I'm interested in the entire lifecycle of a technical idea:
 
-## GitHub
+- **Research:** understanding how a system works before choosing how to build it.
+- **Engineering:** making the implementation understandable, testable, and maintainable.
+- **Experimentation:** measuring results instead of assuming something works.
+- **Products:** building things that solve a real problem for someone.
 
-<div align="center">
+I'm still early in the journey, and that's the point — there's a lot to explore and plenty to build.
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=piyushgargog&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub statistics" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushgargog&layout=compact&hide_border=true&theme=github_dark&langs_count=6" alt="Most used programming languages" />
-
-</div>
+---
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/piyushgargog/piyushgargog/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution activity animation" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,50:58A6FF,100:0D1117" width="100%" alt=""/>
 
-</div>
+### Less noise. More building.
 
-<div align="center">
+*Always learning. Always shipping.*
 
-*Build useful things. Understand how they work. Make them better.*
+<br/>
+
+<a href="https://github.com/piyushgargog">github.com/piyushgargog</a>
 
 </div>
