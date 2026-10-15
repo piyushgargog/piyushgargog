@@ -125,7 +125,7 @@ Exploring compact-model-assisted Python debugging through traceback dataset coll
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=piyushgargog&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=22d3ee&line=818cf8&point=ffffff" alt="GitHub activity graph" width="98%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=piyushgargog&theme=github_dark" alt="GitHub contribution overview" width="98%" />
 
 </div>
 
