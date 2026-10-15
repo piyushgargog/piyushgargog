@@ -1,86 +1,157 @@
-# Piyush Garg
 
-**AI/ML Student · AI Systems Builder · Software Developer**
+<div align="center">
 
-I build practical software around **LLMs, retrieval, automation, and developer tooling**. I focus on building systems that can be tested, evaluated, and used—not just demos that look impressive.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:312e81,100:06b6d4&text=PIYUSH%20GARG&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=AI%20%2F%20ML%20%7C%20LLM%20SYSTEMS%20%7C%20PRODUCT%20ENGINEERING&descSize=15&descAlignY=57&animation=twinkling&stroke=06b6d4&strokeWidth=1" width="100%" alt="Animated profile banner" />
 
-- Currently building: [Vyana](https://github.com/piyushgargog/vyana)
-- Exploring: LLM inference, RAG, model evaluation, and software debugging
-- Learning: Computer Science, Python, C++, and Machine Learning
-- Location: India
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=850&color=22D3EE&center=true&vCenter=true&width=800&lines=Building+AI+that+does+useful+things.;RAG+%7C+LLM+Inference+%7C+Developer+Tools;Turning+ideas+into+working+products.;Measure+it.+Test+it.+Ship+it." alt="Animated typing headline" />
+</a>
 
-[GitHub](https://github.com/piyushgargog) · [LinkedIn](https://linkedin.com/in/piyushgargog)
+<br/>
 
----
+<a href="https://github.com/piyushgargog"><img src="https://img.shields.io/badge/GitHub-piyushgargog-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://linkedin.com/in/piyushgargog"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://vyanahealth.app"><img src="https://img.shields.io/badge/Live_Product-Vyana-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
-## Featured Projects
-
-### [Vyana](https://github.com/piyushgargog/vyana) · [Live App](https://vyanahealth.app)
-
-**AI-powered healthcare platform | Web + Android preview**
-
-A healthcare platform bringing hospital appointments, prescriptions, medicine-price comparison, medical reports, care plans, and a multilingual AI assistant into one place. Integrates web agents to retrieve live information and includes user consent and data-control features.
-
-**Focus:** AI workflows · Backend systems · Product engineering · Healthcare technology
-
-### [DocuLens](https://github.com/piyushgargog/DocuLens) · [Live App](https://doculens.duckdns.org)
-
-**Document-grounded AI question answering**
-
-A Retrieval-Augmented Generation (RAG) application that answers questions from uploaded documents, including PDFs, Word files, text, and Markdown. Supports OCR for scanned pages, hybrid BM25 and embedding retrieval, streamed answers, and page-linked source evidence.
-
-**Stack:** Python · FastAPI · FAISS · sentence-transformers · OCR · Docker
-
-### [Free GPU LLM Lab](https://github.com/piyushgargog/free-gpu-llm-lab)
-
-**Open-weight LLM inference and optimization**
-
-A reproducible experimentation lab exploring quantization, llama.cpp with CUDA, multi-GPU inference, speculative decoding, and benchmarking on free-tier GPU environments. Experimental results are explicitly distinguished from unverified or in-progress work.
-
-**Stack:** Python · CUDA · llama.cpp · GGUF · Quantization · Benchmarking
-
-### [Sponsor Scout](https://github.com/piyushgargog/sponsor-scout)
-
-**AI-assisted sponsorship research and outreach**
-
-Discovers potential sponsors for college events, researches public sources, scores sponsorship fit, drafts personalized emails with source-linked claims, and requires human approval before sending outreach.
-
-**Stack:** Python · Flask · SQLite · LLM integrations · Gmail API
-
-### Veris-2B / TraceFix
-
-**Research direction: AI-assisted software debugging**
-
-An experimental compact-model project focused on converting Python tracebacks into root-cause explanations and candidate code fixes. Current engineering work includes dataset collection, quality controls, evaluation infrastructure, and training preparation.
-
-*Status: Research and infrastructure in progress. The model has not yet been trained.*
-
-### [CS50P Coursework](https://github.com/piyushgargog/cs50p)
-
-Python exercises, practice problems, and coursework from Harvard's Introduction to Programming with Python.
+</div>
 
 ---
 
-## Technical Interests
+## `$ whoami`
 
-- **AI & LLMs:** RAG, retrieval evaluation, LLM applications, model inference
-- **ML Engineering:** Dataset engineering, benchmarking, quantization, fine-tuning workflows
-- **Backend Development:** Python, FastAPI, Flask, PostgreSQL, Prisma
-- **Web Development:** Next.js, JavaScript
-- **Developer Tools:** Git, GitHub, Linux, Docker, CUDA, llama.cpp
+I'm a first-year **B.Tech AI/ML student at USAR, GGSIPU**, building across applied AI, backend engineering, and developer tooling.
 
-*These technologies reflect my project experience and current learning—not a claim of expert-level mastery in every area.*
+- Building AI-powered products and experimenting with LLM systems.
+- Interested in **retrieval quality, inference optimization, evaluation, and AI-assisted debugging**.
+- Focused on reproducible experiments, measurable results, and practical software.
+- Based in India.
+
+## ⚡ Featured Builds
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🩺 [Vyana](https://github.com/piyushgargog/vyana)
+
+**AI-powered healthcare platform**
+
+A healthcare product bringing appointments, prescriptions, medicine-price comparison, medical reports, care plans, and a multilingual AI assistant into one experience.
+
+[![Live App](https://img.shields.io/badge/OPEN-vyanahealth.app-0e7490?style=flat-square&logo=googlechrome&logoColor=white)](https://vyanahealth.app)
+
+`Healthcare AI` `Web + Android` `AI Agents`
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 [DocuLens](https://github.com/piyushgargog/DocuLens)
+
+**Document-grounded question answering**
+
+A RAG application for PDF, Word, text, and Markdown documents, featuring OCR, hybrid BM25 + embedding retrieval, streamed answers, and source-linked evidence.
+
+[![Live App](https://img.shields.io/badge/OPEN-doculens.duckdns.org-0e7490?style=flat-square&logo=googlechrome&logoColor=white)](https://doculens.duckdns.org)
+
+`RAG` `FAISS` `Embeddings` `OCR`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧪 [Free GPU LLM Lab](https://github.com/piyushgargog/free-gpu-llm-lab)
+
+**LLM inference experiments**
+
+Experiments with quantization, llama.cpp + CUDA, speculative decoding, and inference benchmarks on free GPU environments. Results are distinguished by evidence level.
+
+`LLM Inference` `CUDA` `Benchmarking`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛰️ [Sponsor Scout](https://github.com/piyushgargog/sponsor-scout)
+
+**AI-assisted sponsor research**
+
+Finds potential sponsors, researches public sources, scores sponsorship fit, and drafts source-linked outreach for human review before sending.
+
+`Python` `Flask` `SQLite` `Automation`
+
+</td>
+</tr>
+</table>
+
+### 🔬 Veris-2B / TraceFix
+
+**Research in progress — AI-assisted software debugging**
+
+Exploring compact-model-assisted Python debugging through traceback dataset collection, data quality checks, evaluation metrics, and training infrastructure.
+
+*Current status: research and training preparation. No trained-model claims.*
 
 ---
 
-## Engineering Principles
+## 🧰 Tech Stack
 
-- Measure performance instead of relying on intuition.
-- Make experimental results reproducible and limitations explicit.
-- Prefer grounded answers, traceable evidence, and testable systems.
-- Keep humans in control of consequential automated actions.
-- Build end-to-end products to understand how systems behave in practice.
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nextjs,fastapi,flask,postgres,prisma,docker,linux,git,github,vercel,sqlite&perline=8&theme=dark" alt="Technology icons" />
+
+</div>
+
+**AI / ML:** RAG · FAISS · sentence-transformers · OCR · LLM APIs · Quantization experiments
+
+**Backend & Data:** Python · FastAPI · Flask · PostgreSQL · Prisma · SQLite
+
+**Tools & Infrastructure:** Git · GitHub · Docker · Linux / WSL · CUDA · llama.cpp
+
+**Currently learning:** Core Computer Science · C++ · Machine Learning fundamentals
 
 ---
 
-**Building at the intersection of AI research, software engineering, and practical products.**
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=piyushgargog&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0d1117&title_color=22d3ee&icon_color=818cf8&text_color=c9d1d9" alt="GitHub statistics" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushgargog&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9" alt="Most used languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=piyushgargog&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=818CF8&currStreakLabel=22D3EE" alt="GitHub contribution streak" width="70%" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=piyushgargog&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=22d3ee&line=818cf8&point=ffffff" alt="GitHub activity graph" width="98%" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/piyushgargog/piyushgargog/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" width="100%" />
+
+</div>
+
+---
+
+## 🧭 Engineering Principles
+
+- **Evidence over hype:** benchmark claims should be reproducible.
+- **Grounded AI:** make it clear where an answer came from.
+- **Human in the loop:** keep people in control of consequential actions.
+- **End-to-end ownership:** understand the product, infrastructure, and failure modes.
+
+<div align="center">
+
+### *Build useful things. Measure what matters. Keep improving.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:312e81,100:0f172a&height=100&section=footer" width="100%" alt="Decorative footer" />
+
+</div>
