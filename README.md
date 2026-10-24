@@ -9,11 +9,17 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/piyushgargog)
 [![Vyana](https://img.shields.io/badge/Vyana-Visit%20Project-0F766E?style=for-the-badge&logo=vercel&logoColor=white)](https://vyanahealth.app)
 
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=620&lines=AI%2FML+%E2%80%A2+LLM+Systems;RAG+%E2%80%A2+Retrieval+%E2%80%A2+Developer+Tools;Less+hype.+More+building." alt="AI/ML, LLM Systems, RAG, Developer Tools" />
+
 </div>
 
 ---
 
 ## `01` — What I Build
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2563EB,50:818CF8,100:06B6D4" width="100%" />
+
 
 I work on **AI-powered applications, retrieval systems, and developer tools** — with an emphasis on turning experiments into usable software.
 
@@ -22,6 +28,8 @@ I work on **AI-powered applications, retrieval systems, and developer tools** �
 - **Developer Tools** — debugging workflows, automation, practical tooling
 
 ## `02` — Selected Work
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2563EB,50:818CF8,100:06B6D4" width="100%" />
+
 
 <table>
 <tr>
@@ -30,6 +38,8 @@ I work on **AI-powered applications, retrieval systems, and developer tools** �
 ### Vyana
 
 **Healthcare · Product Engineering**
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" />
 
 Healthcare-focused platform built around practical digital workflows.
 
@@ -41,6 +51,8 @@ Healthcare-focused platform built around practical digital workflows.
 ### DocuLens
 
 **RAG · Document Intelligence**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/RAG-Retrieval-101D40?style=flat" />
 
 Ask questions about documents using semantic retrieval and configurable LLM providers.
 
@@ -55,6 +67,8 @@ Ask questions about documents using semantic retrieval and configurable LLM prov
 
 **AI Research · Developer Tools**
 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+
 Exploring dataset pipelines, model evaluation, and AI-assisted Python debugging.
 
 [Explore Project ↗](https://github.com/piyushgargog/veris-2b)
@@ -66,6 +80,8 @@ Exploring dataset pipelines, model evaluation, and AI-assisted Python debugging.
 
 **Efficient Inference · LLM Systems**
 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white" /> <img src="https://img.shields.io/badge/llama.cpp-Inference-101D40?style=flat" />
+
 Reproducible experiments for running and optimizing open-weight LLMs on free GPU compute — quantization, speculative decoding, and inference benchmarking.
 
 [View Repository ↗](https://github.com/piyushgargog/free-gpu-llm-lab)
@@ -75,6 +91,8 @@ Reproducible experiments for running and optimizing open-weight LLMs on free GPU
 </table>
 
 ## `03` — Technical Arsenal
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2563EB,50:818CF8,100:06B6D4" width="100%" />
+
 
 <div align="center">
 
@@ -90,6 +108,8 @@ Reproducible experiments for running and optimizing open-weight LLMs on free GPU
 </div>
 
 ## `04` — GitHub Activity
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2563EB,50:818CF8,100:06B6D4" width="100%" />
+
 
 <div align="center">
 
