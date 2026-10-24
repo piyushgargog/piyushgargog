@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/piyushgargog/piyushgargog/main/assets/banner.svg" width="100%" alt="Piyush Garg — Building AI Systems, Developer Tools, Open Source" />
+<img src="https://raw.githubusercontent.com/piyushgargog/piyushgargog/main/assets/banner.svg?v=20261024c" width="100%" alt="Piyush Garg — Building AI Systems, Developer Tools, Open Source" />
 
 <br/>
 
@@ -28,25 +28,25 @@ I work on **AI-powered applications, retrieval systems, and developer tools** �
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2563EB,50:818CF8,100:06B6D4" width="100%" />
 
 
-<a href="https://github.com/piyushgargog/vyana"><img src="https://raw.githubusercontent.com/piyushgargog/piyushgargog/main/assets/vyana.svg" width="100%" alt="Vyana" /></a>
+<a href="https://github.com/piyushgargog/vyana"><img src="https://raw.githubusercontent.com/piyushgargog/piyushgargog/main/assets/vyana.svg?v=20261024c" width="100%" alt="Vyana" /></a>
 
 Healthcare platform: prescriptions and reminders, lab reports in plain words, medicine prices, hospital tokens and an AI assistant that cites its sources. Web and mobile. <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" /> · [Live site ↗](https://vyanahealth.app)
 
 <br/>
 
-<a href="https://github.com/piyushgargog/DocuLens"><img src="https://raw.githubusercontent.com/piyushgargog/piyushgargog/main/assets/doculens.svg" width="100%" alt="DocuLens" /></a>
+<a href="https://github.com/piyushgargog/DocuLens"><img src="https://raw.githubusercontent.com/piyushgargog/piyushgargog/main/assets/doculens.svg?v=20261024c" width="100%" alt="DocuLens" /></a>
 
 Ask questions about any PDF you upload — answers grounded strictly in the document, with source page citations. <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/RAG-Retrieval-101D40?style=flat" />
 
 <br/>
 
-<a href="https://github.com/piyushgargog/veris-2b"><img src="https://raw.githubusercontent.com/piyushgargog/piyushgargog/main/assets/veris.svg" width="100%" alt="TraceFix / Veris-2B" /></a>
+<a href="https://github.com/piyushgargog/veris-2b"><img src="https://raw.githubusercontent.com/piyushgargog/piyushgargog/main/assets/veris.svg?v=20261024c" width="100%" alt="TraceFix / Veris-2B" /></a>
 
 A compact language model for automated software debugging and code repair, focused on Python. <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
 
 <br/>
 
-<a href="https://github.com/piyushgargog/free-gpu-llm-lab"><img src="https://raw.githubusercontent.com/piyushgargog/piyushgargog/main/assets/gpu-lab.svg" width="100%" alt="Free GPU LLM Lab" /></a>
+<a href="https://github.com/piyushgargog/free-gpu-llm-lab"><img src="https://raw.githubusercontent.com/piyushgargog/piyushgargog/main/assets/gpu-lab.svg?v=20261024c" width="100%" alt="Free GPU LLM Lab" /></a>
 
 Reproducible experiments for running and optimizing open-weight LLMs on free GPU compute — GGUF, quantization, speculative decoding, benchmarking. <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white" /> <img src="https://img.shields.io/badge/llama.cpp-Inference-101D40?style=flat" />
 
