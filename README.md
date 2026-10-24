@@ -1,6 +1,6 @@
 # Piyush Garg
 
-First-year B.Tech student (AI & ML) building AI systems, retrieval pipelines, and developer tools. My work focuses on LLM reliability, retrieval, and efficient inference — turning experiments into software people can actually use.
+I build AI systems, retrieval pipelines, and developer tools. My work focuses on LLM reliability, retrieval, and efficient inference — turning experiments into software people can actually use.
 
 Currently leading the backend of [Vyana](https://vyanahealth.app), a live healthcare platform, and researching a compact code-repair model.
 
