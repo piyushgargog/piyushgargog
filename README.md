@@ -9,9 +9,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/piyushgargog)
 [![Vyana](https://img.shields.io/badge/Vyana-Visit%20Project-0F766E?style=for-the-badge&logo=vercel&logoColor=white)](https://vyanahealth.app)
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=620&lines=AI%2FML+%E2%80%A2+LLM+Systems;RAG+%E2%80%A2+Retrieval+%E2%80%A2+Developer+Tools;Turning+coffee+into+commits;Less+hype.+More+building." alt="AI/ML, LLM Systems, RAG, Developer Tools" />
 
 </div>
 
@@ -83,9 +80,6 @@ Reproducible experiments for running and optimizing open-weight LLMs on free GPU
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushgargog&layout=compact&hide_border=true&bg_color=050816&title_color=60A5FA&text_color=CBD5E1" />
 
-<br/>
-
-<img src="https://raw.githubusercontent.com/piyushgargog/piyushgargog/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake animation" />
 
 </div>
 
