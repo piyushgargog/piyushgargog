@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:050816,50:101D40,100:2563EB&text=PIYUSH%20GARG&fontColor=FFFFFF&fontSize=54&fontAlignY=42&desc=Building%20AI%20Systems%20%7C%20Developer%20Tools%20%7C%20Open%20Source&descSize=14&descAlignY=62&animation=fadeIn" width="100%" />
+<img src="https://raw.githubusercontent.com/piyushgargog/piyushgargog/main/assets/banner.svg" width="100%" alt="Piyush Garg — Building AI Systems, Developer Tools, Open Source" />
 
 <br/>
 
@@ -11,7 +11,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=620&lines=AI%2FML+%E2%80%A2+LLM+Systems;RAG+%E2%80%A2+Retrieval+%E2%80%A2+Developer+Tools;Less+hype.+More+building." alt="AI/ML, LLM Systems, RAG, Developer Tools" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=620&lines=AI%2FML+%E2%80%A2+LLM+Systems;RAG+%E2%80%A2+Retrieval+%E2%80%A2+Developer+Tools;Turning+coffee+into+commits;Less+hype.+More+building." alt="AI/ML, LLM Systems, RAG, Developer Tools" />
 
 </div>
 
