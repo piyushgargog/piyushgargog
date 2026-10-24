@@ -76,8 +76,6 @@ Reproducible experiments for running and optimizing open-weight LLMs on free GPU
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=piyushgargog&bg_color=050816&color=60A5FA&line=818CF8&point=FFFFFF&area=true&hide_border=true" width="100%" />
-
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=piyushgargog&show_icons=true&hide_border=true&bg_color=050816&title_color=60A5FA&icon_color=818CF8&text_color=CBD5E1&rank_icon=github" />
 <img height="165" src="https://streak-stats.demolab.com?user=piyushgargog&hide_border=true&background=050816&ring=60A5FA&fire=818CF8&currStreakLabel=60A5FA&sideLabels=CBD5E1&dates=94A3B8" />
 
