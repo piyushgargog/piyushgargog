@@ -44,7 +44,7 @@ Healthcare-focused platform built around practical digital workflows.
 
 Ask questions about documents using semantic retrieval and configurable LLM providers.
 
-[View Repository ↗](https://github.com/piyushgargog/ai-document-assistant)
+[View Repository ↗](https://github.com/piyushgargog/DocuLens)
 
 </td>
 </tr>
@@ -57,18 +57,18 @@ Ask questions about documents using semantic retrieval and configurable LLM prov
 
 Exploring dataset pipelines, model evaluation, and AI-assisted Python debugging.
 
-[Explore Project ↗](https://github.com/piyushgargog/ai-error-debugger)
+[Explore Project ↗](https://github.com/piyushgargog/veris-2b)
 
 </td>
 <td width="50%" valign="top">
 
-### More Experiments
+### Free GPU LLM Lab
 
-**Prototyping · Open Source**
+**Efficient Inference · LLM Systems**
 
-Building, testing, and refining software across AI and full-stack development.
+Reproducible experiments for running and optimizing open-weight LLMs on free GPU compute — quantization, speculative decoding, and inference benchmarking.
 
-[Browse All Repositories ↗](https://github.com/piyushgargog?tab=repositories)
+[View Repository ↗](https://github.com/piyushgargog/free-gpu-llm-lab)
 
 </td>
 </tr>
