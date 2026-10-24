@@ -1,94 +1,27 @@
+# Piyush Garg
 
-<div align="center">
+First-year B.Tech student (AI & ML) building AI systems, retrieval pipelines, and developer tools. My work focuses on LLM reliability, retrieval, and efficient inference — turning experiments into software people can actually use.
 
-<img src="https://raw.githubusercontent.com/piyushgargog/piyushgargog/main/assets/banner.svg?v=20261024c" width="100%" alt="Piyush Garg — Building AI Systems, Developer Tools, Open Source" />
+Currently leading the backend of [Vyana](https://vyanahealth.app), a live healthcare platform, and researching a compact code-repair model.
 
-<br/>
+## Projects
 
-[![GitHub](https://img.shields.io/badge/GitHub-Explore%20my%20work-111827?style=for-the-badge&logo=github)](https://github.com/piyushgargog)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/piyushgargog)
-[![Vyana](https://img.shields.io/badge/Vyana-Visit%20Project-0F766E?style=for-the-badge&logo=vercel&logoColor=white)](https://vyanahealth.app)
+**[Vyana](https://github.com/piyushgargog/vyana)** — Healthcare platform (web + mobile): prescriptions and dose reminders, lab reports in plain words, medicine price comparison, hospital tokens, and an AI assistant that cites its sources. Built with TypeScript, Next.js, Supabase, and Expo. Live at [vyanahealth.app](https://vyanahealth.app). I lead the team and own the backend, API, and shared contracts.
 
+**[DocuLens](https://github.com/piyushgargog/DocuLens)** — RAG tool that answers questions about any PDF you upload, grounded strictly in the document's content with source page citations. Python.
 
-</div>
+**[Veris-2B](https://github.com/piyushgargog/veris-2b)** — A compact language model for automated software debugging and code repair, currently focused on Python. Dataset pipeline and evaluation framework are complete; fine-tuning is in progress. Python, PyTorch.
 
----
+**[Free GPU LLM Lab](https://github.com/piyushgargog/free-gpu-llm-lab)** — Reproducible experiments for running and optimizing open-weight LLMs on free GPU compute: GGUF, llama.cpp, CUDA, quantization, speculative decoding, and inference benchmarking.
 
-## `01` — What I Build
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2563EB,50:818CF8,100:06B6D4" width="100%" />
+## Skills
 
+- **Languages:** Python, TypeScript, C++, SQL
+- **AI / ML:** RAG pipelines, LLM evaluation, fine-tuning (QLoRA), quantization, vector search
+- **Backend:** FastAPI, Next.js, PostgreSQL, Supabase, Redis, Docker
+- **Tools:** Git, GitHub Actions, Linux, Vercel
 
-I work on **AI-powered applications, retrieval systems, and developer tools** — with an emphasis on turning experiments into usable software.
+## Contact
 
-- **AI / ML** — LLM applications, RAG pipelines, model evaluation
-- **Backend Engineering** — APIs, databases, system integration
-- **Developer Tools** — debugging workflows, automation, practical tooling
-
-## `02` — Selected Work
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2563EB,50:818CF8,100:06B6D4" width="100%" />
-
-
-<a href="https://github.com/piyushgargog/vyana"><img src="https://raw.githubusercontent.com/piyushgargog/piyushgargog/main/assets/vyana.svg?v=20261024c" width="100%" alt="Vyana" /></a>
-
-Healthcare platform: prescriptions and reminders, lab reports in plain words, medicine prices, hospital tokens and an AI assistant that cites its sources. Web and mobile. <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" /> · [Live site ↗](https://vyanahealth.app)
-
-<br/>
-
-<a href="https://github.com/piyushgargog/DocuLens"><img src="https://raw.githubusercontent.com/piyushgargog/piyushgargog/main/assets/doculens.svg?v=20261024c" width="100%" alt="DocuLens" /></a>
-
-Ask questions about any PDF you upload — answers grounded strictly in the document, with source page citations. <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/RAG-Retrieval-101D40?style=flat" />
-
-<br/>
-
-<a href="https://github.com/piyushgargog/veris-2b"><img src="https://raw.githubusercontent.com/piyushgargog/piyushgargog/main/assets/veris.svg?v=20261024c" width="100%" alt="TraceFix / Veris-2B" /></a>
-
-A compact language model for automated software debugging and code repair, focused on Python. <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-
-<br/>
-
-<a href="https://github.com/piyushgargog/free-gpu-llm-lab"><img src="https://raw.githubusercontent.com/piyushgargog/piyushgargog/main/assets/gpu-lab.svg?v=20261024c" width="100%" alt="Free GPU LLM Lab" /></a>
-
-Reproducible experiments for running and optimizing open-weight LLMs on free GPU compute — GGUF, quantization, speculative decoding, benchmarking. <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white" /> <img src="https://img.shields.io/badge/llama.cpp-Inference-101D40?style=flat" />
-
-## `03` — Technical Arsenal
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2563EB,50:818CF8,100:06B6D4" width="100%" />
-
-
-<div align="center">
-
-### Languages
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts" />
-
-### AI / Backend / Infrastructure
-<img src="https://skillicons.dev/icons?i=pytorch,fastapi,flask,postgres,redis,docker,linux,git" />
-
-### Web / Tooling
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,prisma,github,vercel" />
-
-</div>
-
-## `04` — GitHub Activity
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2563EB,50:818CF8,100:06B6D4" width="100%" />
-
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=piyushgargog&show_icons=true&hide_border=true&bg_color=050816&title_color=60A5FA&icon_color=818CF8&text_color=CBD5E1&rank_icon=github" />
-<img height="165" src="https://streak-stats.demolab.com?user=piyushgargog&hide_border=true&background=050816&ring=60A5FA&fire=818CF8&currStreakLabel=60A5FA&sideLabels=CBD5E1&dates=94A3B8" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushgargog&layout=compact&hide_border=true&bg_color=050816&title_color=60A5FA&text_color=CBD5E1" />
-
-
-</div>
-
----
-
-<div align="center">
-
-**Less hype. More building.**
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2563EB,50:818CF8,100:06B6D4&section=footer" width="100%" />
-
-</div>
+- LinkedIn: [linkedin.com/in/piyushgargog](https://linkedin.com/in/piyushgargog)
+- Email: piyushgargxd@gmail.com

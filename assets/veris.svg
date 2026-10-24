@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="200" viewBox="0 0 880 200">
-  <rect width="880" height="200" fill="#0B1220"/>
-  <rect x="0" y="0" width="6" height="200" fill="#6366F1"/>
-  <text x="52" y="92" font-family="'Segoe UI', Arial, sans-serif" font-size="42" font-weight="700" fill="#FFFFFF">TraceFix / Veris-2B</text>
-  <text x="52" y="132" font-family="'Segoe UI', Arial, sans-serif" font-size="20" fill="#94A3B8">A compact LLM for automated Python code repair</text>
-  <text x="52" y="168" font-family="'Consolas', 'Courier New', monospace" font-size="15" fill="#64748B">Python · PyTorch · QLoRA Fine-tuning</text>
-</svg>
