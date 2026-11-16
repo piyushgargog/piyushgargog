@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="220" viewBox="0 0 880 220">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050816"/>
+      <stop offset="0.55" stop-color="#1B1040"/>
+      <stop offset="1" stop-color="#6D28D9"/>
+    </linearGradient>
+  </defs>
+  <rect width="880" height="220" rx="16" fill="url(#bg)"/>
+  <circle cx="790" cy="30" r="120" fill="#A78BFA" opacity="0.14"/>
+  <circle cx="850" cy="190" r="90" fill="#A78BFA" opacity="0.10"/>
+  <circle cx="60" cy="215" r="70" fill="#A78BFA" opacity="0.08"/>
+  <rect x="48" y="52" width="54" height="6" rx="3" fill="#A78BFA"/>
+  <text x="48" y="112" font-family="'Segoe UI', Arial, sans-serif" font-size="46" font-weight="700" fill="#FFFFFF">TraceFix / Veris-2B</text>
+  <text x="48" y="150" font-family="'Segoe UI', Arial, sans-serif" font-size="21" fill="#CBD5E1">A compact LLM for automated Python code repair</text>
+  <text x="48" y="190" font-family="'Consolas', 'Courier New', monospace" font-size="16" fill="#A78BFA">Python · PyTorch · QLoRA Fine-tuning</text>
+</svg>
