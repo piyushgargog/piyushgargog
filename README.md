@@ -1,42 +1,71 @@
-# Hey, I'm Piyush 👋
+```
++----------------------------------------------+
+|  PIYUSH GARG  //  AI systems . retrieval     |
+|  distributed training  //  Delhi, India      |
++----------------------------------------------+
+```
 
-I build AI systems and then try to break them, because the interesting part is whether they still work afterwards.
+```console
+piyush@delhi:~$ whoami
+piyush garg, 2nd-year AI/ML @ USAR, GGSIPU
 
-Second-year AI/ML student at USAR, GGSIPU, Delhi. Most of my time goes into **LLM reliability, retrieval, and making GPUs not die at a bad moment**.
+piyush@delhi:~$ cat focus.txt
+LLM reliability
+retrieval that cites its sources
+distributed training that survives dead GPUs
 
-## What I'm building right now
+piyush@delhi:~$ cat now.txt
+ekido     trains small models on spare GPUs, pays only for verified work
+vyana     live health app (web + android), I own backend + security
+veris-2b  ~2B model that reads a traceback and writes the fix (dataset + eval done)
+```
 
-- 🏃 **[Ekido](https://github.com/ekido-ai)**: a network that trains small AI models on spare GPUs and pays only for work that checks out. I kill a GPU mid-training on purpose and the job moves to another one. Started as GPUChain at InfraShift (Top 8), now 8 repos and a [live testnet](https://ekido.duckdns.org).
-- 🏥 **[Vyana](https://vyanahealth.app)**: a live health app (web + Android) in English, Hindi and Hinglish. I lead the backend and security. The AI has to show its sources or stay quiet.
-- 🧪 **[Veris-2B](https://github.com/piyushgargog/veris-2b)**: a ~2B model that reads a Python traceback and writes the fix. Dataset and eval are built; training comes next.
+```console
+piyush@delhi:~$ ls projects/
+```
 
-## Receipts
+- **[ekido/](https://github.com/ekido-ai)**: spare-GPU training network, 8 repos, [live testnet](https://ekido.duckdns.org). Started as GPUChain, Top 8 at InfraShift.
+- **[vyana/](https://vyanahealth.app)**: health app in English, Hindi, Hinglish. AI must cite sources or stay quiet. [code](https://github.com/piyushgargog/vyana)
+- **[DocuLens/](https://github.com/piyushgargog/DocuLens)**: citation-grounded RAG over PDFs, Word, scans. [live](https://doculens.duckdns.org)
+- **[agentic-dermaguard/](https://github.com/piyushgargog/agentic-dermaguard)**: six-agent skin lesion triage. 1st Runner Up, JAI Agentic Hackathon.
+- **[free-gpu-llm-lab/](https://github.com/piyushgargog/free-gpu-llm-lab)**: quantization + speculative decoding on free T4s.
+- **[veris-2b/](https://github.com/piyushgargog/veris-2b)**: code-repair model.
+- **[piyushos/](https://piyushos-three.vercel.app)**: my portfolio, as a desktop OS in the browser.
 
-| What | Result |
-|---|---|
-| Ekido: killed a GPU mid-run | noticed in **0.6 s**, resumed elsewhere **65 s** later, lost 8 of 400 steps |
-| Ekido: a replacement GPU returned junk | refused, paid **0** (24.8% vs 89.2% accuracy) |
-| [DermaGuard](https://github.com/piyushgargog/agentic-dermaguard): six agents on skin lesions | macro AUC **0.9782**, 1st Runner Up at JAI Agentic Hackathon |
-| [DocuLens](https://github.com/piyushgargog/DocuLens): smarter chunking | Hit@1 **0.51 → 0.62** on my own benchmark |
-| [GPU LLM Lab](https://github.com/piyushgargog/free-gpu-llm-lab): speculative decoding on 2× T4 | **+30.7%** tokens/sec on a ~30B model |
+```console
+piyush@delhi:~$ ./receipts.sh
+ekido        kill GPU mid-run      -> noticed 0.6s, resumed 65s later, lost 8/400 steps
+ekido        junk from replacement -> refused, paid 0  (24.8% vs 89.2%)
+dermaguard   macro AUC             -> 0.9782
+doculens     Hit@1                 -> 0.51 -> 0.62
+gpu-lab      speculative decoding  -> +30.7% tok/s on ~30B GGUF, 2x T4
 
-## Things that didn't work (I wrote them down anyway)
+piyush@delhi:~$ tail failures.log
+[warn] bm25 beat hybrid retrieval on keyword-heavy questions
+[warn] hnsw lost recall on random data, exact search stays default
+[warn] flashattention: 0% decode speedup on T4
+[err ] fp16 -> NaN logits on gemma 3 4b
+# negative results are results
+```
 
-- BM25 beat my fancy hybrid retrieval on keyword-heavy questions.
-- HNSW lost recall on random data, so DocuLens still uses exact search.
-- FlashAttention gave me zero decode speedup on T4s.
-- FP16 gave NaN logits on Gemma 3 4B.
+```console
+piyush@delhi:~$ git log --oneline --open-source
+```
 
-Negative results are results.
+- [useautumn/typescript#91](https://github.com/useautumn/typescript/pull/91): worked example for the Autumn billing SDK (AI credits, rollovers, mid-cycle plan change). Open.
+- Vyana's Liquid Glass design system picked for XERJ's Corpus Hub (MIT).
 
-## Also
+```console
+piyush@delhi:~$ echo $STACK
+python go rust typescript fastapi nextjs supabase pytorch llama.cpp docker aws
 
-- 🧩 Open PR on the Autumn billing SDK: [AI credits with rollovers](https://github.com/useautumn/typescript/pull/91)
-- 🪟 My portfolio is a [desktop OS that runs in your browser](https://piyushos-three.vercel.app)
-- 🛠️ Python · Go · Rust · TypeScript · FastAPI · Next.js · Supabase · PyTorch · llama.cpp · Docker · AWS
+piyush@delhi:~$ cat contact.txt
+```
 
-## Say hi
+[piyushgargdev.xyz](https://piyushgargdev.xyz) · [linkedin](https://linkedin.com/in/piyushgargog) · hi@piyushgargdev.xyz
 
-[piyushgargdev.xyz](https://piyushgargdev.xyz) · [LinkedIn](https://linkedin.com/in/piyushgargog) · hi@piyushgargdev.xyz
-
-Looking for AI/ML and software internships. If you have a hard problem about retrieval, reliability, or distributed training, I'd like to hear it.
+```console
+piyush@delhi:~$ echo "open to AI/ML + software internships"
+open to AI/ML + software internships
+piyush@delhi:~$ _
+```
