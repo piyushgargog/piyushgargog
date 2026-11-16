@@ -7,7 +7,7 @@
 
 ```console
 piyush@delhi:~$ whoami
-piyush garg, 2nd-year AI/ML @ USAR, GGSIPU
+piyush garg, 1st-year B.Tech in AI/ML
 
 piyush@delhi:~$ cat focus.txt
 LLM reliability
